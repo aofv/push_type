@@ -11,9 +11,7 @@ pkg
 rdoc
 
 */.sass-cache
-*/app/assets/**/webpack
 */node_modules
 */test/dummy
 */tmp
 **/*.log
-
